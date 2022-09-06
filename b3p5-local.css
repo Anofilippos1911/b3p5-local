@@ -1,0 +1,21 @@
+/* Local storage - Block 3 Part 5 Application state */
+
+h1 {
+    font-size: 1.4rem;
+    /* Reduce gap before/after headings to make things a bit neater */
+    margin: 0.25rem 0;
+}
+
+/* Indicate that list items are clickable */
+ul.items li {
+    cursor: pointer;
+}
+
+/* Present inputs/labels a bit more neatly */
+label {
+    display: block;
+    margin: 0.5em 0;
+}
+label.inline {
+    display: inline-block;
+}
